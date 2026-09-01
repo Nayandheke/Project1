@@ -1,0 +1,7 @@
+# This file is used for git ignore to safely ignore unnecessary files
+
+# .gitignore
+node_modules/
+.env
+*.log
+.DS_Store
